@@ -11,7 +11,7 @@
 
 - 🎓 3rd Year B.Tech Student in Computer Science and Engineering  
 - 🎯 Aspiring **Web Developer** | Passionate about data-driven decision-making  
-- 💻 Comfortable with **Java**, **MySQL**, and **C++**
+- 💻 Comfortable with **HTML**, **CSS**, **Java Script**, **Java**,  **C++**, **MY SQL**
 - 📚 Currently learning: DBMS, Data Structures, Operating Systems, Linear Programming, Probability & Statistics  
 - 📫 Reach me at: **tanya.dogra04@gmail.com**
 
