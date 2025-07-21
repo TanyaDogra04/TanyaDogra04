@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanya Dogra</h1>
-<h3 align="center">Aspiring Data Analyst | 3rd Year B.Tech CSE Student</h3>
+<h3 align="center">Aspiring Web Developer | 3rd Year B.Tech CSE Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+working+with+data+%F0%9F%93%88;Java+%7C+MySQL+%7C+C%2B%2B+Enthusiast;Currently+Exploring+DSA+%7C+ML+%7C+DBMS" alt="Typing SVG" />
